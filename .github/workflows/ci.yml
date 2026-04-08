@@ -5,4 +5,4 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: Mostrar mensaje
-                run: echo "Se hizo el push al respositorio"
+              run: echo "Se hizo el push al respositorio"
